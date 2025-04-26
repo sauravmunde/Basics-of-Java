@@ -1,4 +1,4 @@
-public class SwitchStatementExample {
+public class SwitchStatement {
     public static void main(String[] args) {
         int a = 5;
         int b = 6;
@@ -26,4 +26,5 @@ public class SwitchStatementExample {
                 System.out.println("default case");
         }
     }
+    
 }
