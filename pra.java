@@ -2,7 +2,7 @@ public class pra {
 
     public static void main(String[] args) {
      
-/* 
+    /* 
     if(a/0 == b){
         System.out.println("hello");
     }
