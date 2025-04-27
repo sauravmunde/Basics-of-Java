@@ -16,7 +16,8 @@ public class logicalOperator {
         
         
         else{
-
+              
+            
             System.out.println("false");
         }
     }
