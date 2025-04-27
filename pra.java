@@ -22,7 +22,8 @@ public class pra {
 
         if(b<100)
 
-        b= 50;
+        b = 50;
+
       }
 
       else if(a==b) {
@@ -33,7 +34,8 @@ public class pra {
       else {
 
     System.out.println("queen");
-      
+    
+
       }
     }
     
