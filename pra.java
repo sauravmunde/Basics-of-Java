@@ -34,9 +34,7 @@ public class pra {
       else {
 
     System.out.println("queen");
-    
-
-      }
-    }
-    
+     
+        }
+    }  
 }
