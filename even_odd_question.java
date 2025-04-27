@@ -7,7 +7,7 @@ public class even_odd_question {
       
 
 
-                Scanner s = new Scanner(System.in);
+         Scanner s = new Scanner(System.in);
         /*        
         int a , b;
       System.out.println("first num");
