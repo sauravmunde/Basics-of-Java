@@ -52,7 +52,7 @@ Start calculating the Celsius values for each Fahrenheit Value which starts from
                  int W = s.nextInt();
                  int F = S;
                  while(F <= E){
-                     int C = (int)((5)* (F -32) /9);
+                     int C = (int)((5)* (F-32) /9);
                      System.out.println(F+" "+ C);
                      F +=W;   
                        }		
