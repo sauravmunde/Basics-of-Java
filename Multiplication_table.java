@@ -60,8 +60,8 @@ public class Multiplication_table {
 
         while (i <= 10) {
 
-            n = n * i;
-            System.out.println(n);
+           
+            System.out.println(n*i);
             i++;
         }
 
