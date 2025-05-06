@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Multiplication_table {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {https://github.com/sauravmunde/Basics-of-Java/blob/main/Multiplication_table.java
 
         /*
          * Problem statement
