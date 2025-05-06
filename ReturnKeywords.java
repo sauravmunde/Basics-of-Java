@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class ReturnKeywords {
-
     public static void main(String[] args) {
-        
         int n;
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
@@ -15,11 +13,8 @@ public class ReturnKeywords {
                 System.out.println("composite");
                 return;
             }
-
             div = div + 1;
         }
           System.out.println("not composite");
-    
-        }
-    
+        }   
 }
