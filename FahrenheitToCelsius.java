@@ -22,7 +22,7 @@ Sample Output 1:
 20  -6
 40  4
 60  15
-80  26
+80  26  
 100 37
 Sample Input 2:
 20
@@ -47,14 +47,14 @@ Start calculating the Celsius values for each Fahrenheit Value which starts from
             
                     
                      Scanner s=new Scanner(System.in);
-                 int S =s.nextInt();
-                 int E = s.nextInt();
-                 int W = s.nextInt();
-                 int F = S;
-                 while(F <= E){
+                     int S =s.nextInt();
+                     int E = s.nextInt();
+                     int W = s.nextInt();
+                     int F = S;
+                     while(F <= E){
                      int C = (int)((5)* (F-32) /9);
                      System.out.println(F+" "+ C);
                      F +=W;   
                        }		
                      }
-                    }
+                     }

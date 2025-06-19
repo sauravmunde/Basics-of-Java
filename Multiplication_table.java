@@ -60,8 +60,13 @@ public class Multiplication_table {
 
         while (i <= 10) {
 
+<<<<<<< HEAD
            
             System.out.println(n*i);
+=======
+            // n = n * i;
+            System.out.println(n * i);
+>>>>>>> b4d4163 (si code)
             i++;
         }
 
